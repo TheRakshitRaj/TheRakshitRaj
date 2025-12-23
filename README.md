@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Building frontend projects using HTML, CSS, and JavaScript<br>👯 I’m looking to collaborate on Beginner-friendly web development projects<br>🌱 I’m currently learning Core Computer Science fundamentals<br>💬 Ask me about JavaScript basics and logic building and etc.
 
 
 ## 🌐 Socials:
