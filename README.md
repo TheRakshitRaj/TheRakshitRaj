@@ -44,25 +44,57 @@
 
 ## 🧠 About Me
 
-```typescript
-const rakshit = {
-  name        : "Rakshit Raj",
-  handle      : "@TheRakshitRaj",
-  role        : "Software Engineer",
-  location    : "🌍 India",
-  currentWork : "Building something awesome 🚀",
-  learning    : ["System Design", "Distributed Systems", "AI/ML"],
-  techStack   : {
-    languages : ["JavaScript", "TypeScript", "Python", "C", "C++", "Rust"],
-    frontend  : ["React", "Next.js", "Tailwind CSS"],
-    mobile    : ["Flutter", "React Native"],
-    backend   : ["Node.js", "Express", "FastAPI"],
-    tools     : ["Git", "Docker", "Linux", "VS Code"],
-  },
-  askMeAbout  : ["Web Dev", "Mobile Apps", "DSA", "Open Source"],
-  funFact     : "I solve problems on LeetCode for fun... and sometimes panic 😄",
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ```
+╔══════════════════════════════════════╗
+║                                      ║
+║    ██████╗  ██████╗                  ║
+║    ██╔══██╗ ██╔══██╗                 ║
+║    ██████╔╝ ██████╔╝                 ║
+║    ██╔══██╗ ██╔══██╗                 ║
+║    ██║  ██║ ██║  ██║                 ║
+║    ╚═╝  ╚═╝ ╚═╝  ╚═╝                ║
+║                                      ║
+║         Rakshit Raj                  ║
+║      @TheRakshitRaj                  ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+┌─[ rakshit@universe ]─────────────────┐
+│                                       │
+│  👤  Rakshit Raj                      │
+│  💼  Software Engineer                │
+│  📍  India                            │
+│  🌐  github.com/TheRakshitRaj         │
+│                                       │
+├─[ system ]────────────────────────────┤
+│                                       │
+│  ⚡  Languages  : JS · TS · Py · Rust │
+│  ⚛️   Frontend  : React · Next.js     │
+│  📱  Mobile    : Flutter · RN         │
+│  🔧  Backend   : Node.js · FastAPI    │
+│                                       │
+├─[ status ]────────────────────────────┤
+│                                       │
+│  🔭  Building  : SaaS + Mobile Apps   │
+│  🌱  Learning  : System Design + AI   │
+│  💬  Ask me    : DSA · Web · Mobile   │
+│  ⚡  Fun fact  : LeetCode addict 😄   │
+│                                       │
+└───────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -299,35 +331,3 @@ const rakshit = {
 </a>
 
 <br/><br/>
-
-<!-- ░░░ FOOTER WAVE ░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<sub>⭐ If you find my work interesting, consider starring a repo — it means a lot! 🙌</sub>
-
-</div>
-
-<!--
-═══════════════════════════════════════════════════════════════════
-  📋  FINAL SETUP CHECKLIST for @TheRakshitRaj
-═══════════════════════════════════════════════════════════════════
-  Replace these remaining placeholders:
-  [ ] rakshit-raj-817508394     → your LinkedIn profile slug
-  [ ] The_Rakshit_Raj    → your Twitter / X handle
-  [ ] The_RakshitRaj → your LeetCode username
-  [ ] YOUR_REPO_1            → your best project repo name
-  [ ] YOUR_REPO_2            → your second best project repo name
-
-  Update personal section to reflect your real:
-  [ ] location, current projects, achievements & fun facts
-
-  📁  How to go live:
-  1. Go to github.com/new
-  2. Repo name: TheRakshitRaj  (must match your username exactly)
-  3. Set to Public ✅
-  4. Paste this as README.md
-  5. Visit github.com/TheRakshitRaj — your profile is live! 🎉
-
-  🐍  Snake: Follow the workflow instructions in the snake section above.
-═══════════════════════════════════════════════════════════════════
--->
