@@ -153,7 +153,7 @@
 <br/>
 
 <!-- ░░░ STREAK STATS ░░░ -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRakshitRaj&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=TheRakshitRaj&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
 
 <br/><br/>
 
@@ -182,38 +182,43 @@
 
 <div align="center">
 
-<!--
-  ⚠️  SNAKE ANIMATION SETUP (one-time, ~5 min):
-  ─────────────────────────────────────────────
-  1. In your TheRakshitRaj/TheRakshitRaj repo:
-     Settings → Actions → General → Allow all actions ✅
-
-  2. Create file: .github/workflows/snake.yml  with this content:
-  ──────────────────────────────────────────────────────────────────
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: TheRakshitRaj
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ──────────────────────────────────────────────────────────────────
-  3. Go to Actions tab → Run workflow manually once.
-  4. Snake will auto-regenerate every midnight after that!
--->
+<!-- ⚠️ SNAKE SETUP REQUIRED — follow steps below, then delete this notice block -->
+> **🔧 Snake not showing yet?** You need to run the GitHub Action once to generate the SVG.
+> 
+> **Quick setup (5 min):**
+> 1. In your `TheRakshitRaj/TheRakshitRaj` repo → **Settings → Actions → General** → select **"Allow all actions"** ✅
+> 2. Create `.github/workflows/snake.yml` with the content below
+> 3. Go to **Actions tab** → click **"Generate Snake"** → **"Run workflow"** ▶️
+> 4. Once it runs successfully, **delete this notice block** from the README
+>
+> <details>
+> <summary>📋 Click to copy snake.yml workflow</summary>
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: TheRakshitRaj
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+>
+> </details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -331,3 +336,35 @@
 </a>
 
 <br/><br/>
+
+<!-- ░░░ FOOTER WAVE ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<sub>⭐ If you find my work interesting, consider starring a repo — it means a lot! 🙌</sub>
+
+</div>
+
+<!--
+═══════════════════════════════════════════════════════════════════
+  📋  FINAL SETUP CHECKLIST for @TheRakshitRaj
+═══════════════════════════════════════════════════════════════════
+  Replace these remaining placeholders:
+  [ ] rakshit-raj-817508394     → your LinkedIn profile slug
+  [ ] The_Rakshit_Raj    → your Twitter / X handle
+  [ ] The_RakshitRaj → your LeetCode username
+  [ ] YOUR_REPO_1            → your best project repo name
+  [ ] YOUR_REPO_2            → your second best project repo name
+
+  Update personal section to reflect your real:
+  [ ] location, current projects, achievements & fun facts
+
+  📁  How to go live:
+  1. Go to github.com/new
+  2. Repo name: TheRakshitRaj  (must match your username exactly)
+  3. Set to Public ✅
+  4. Paste this as README.md
+  5. Visit github.com/TheRakshitRaj — your profile is live! 🎉
+
+  🐍  Snake: Follow the workflow instructions in the snake section above.
+═══════════════════════════════════════════════════════════════════
+-->
