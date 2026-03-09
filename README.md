@@ -98,8 +98,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
   <br/><br/>
 
@@ -107,7 +107,7 @@
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=TheRakshitRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRakshitRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" width="100%"/>
 </div>
 
 ---
@@ -192,12 +192,12 @@
 ## 📌 Featured Work
 
 <div align="center">
-  <a href="https://github.com/TheRakshitRaj/DeFi-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+  <a href="https://github.com/TheRakshitRaj/DeFi_Project">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
   </a>
   &nbsp;
-  <a href="https://github.com/TheRakshitRaj/lms-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=lms-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+  <a href="https://github.com/TheRakshitRaj/Movies-site-">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=Movies-site-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
   </a>
 </div>
 
