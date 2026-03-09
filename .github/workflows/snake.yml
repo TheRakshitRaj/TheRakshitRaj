@@ -19,23 +19,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-5. Click **"Commit changes"** → **"Commit directly to main"** → **Commit** ✅
-
----
-
-**Step 3 — Run the workflow manually**
-
-1. Go to the **Actions** tab of your repo
-2. You'll see **"Generate Snake"** in the left sidebar — click it
-3. Click the **"Run workflow"** dropdown on the right → **"Run workflow"** ▶️
-4. Wait ~30 seconds — you'll see a green ✅ when it's done
-
----
-
-**Step 4 — Verify it worked**
-
-After the green checkmark, go to:
-```
-https://github.com/TheRakshitRaj/TheRakshitRaj/tree/output
