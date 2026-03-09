@@ -180,46 +180,6 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<!-- ⚠️ SNAKE SETUP REQUIRED — follow steps below, then delete this notice block -->
-> **🔧 Snake not showing yet?** You need to run the GitHub Action once to generate the SVG.
-> 
-> **Quick setup (5 min):**
-> 1. In your `TheRakshitRaj/TheRakshitRaj` repo → **Settings → Actions → General** → select **"Allow all actions"** ✅
-> 2. Create `.github/workflows/snake.yml` with the content below
-> 3. Go to **Actions tab** → click **"Generate Snake"** → **"Run workflow"** ▶️
-> 4. Once it runs successfully, **delete this notice block** from the README
->
-> <details>
-> <summary>📋 Click to copy snake.yml workflow</summary>
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: TheRakshitRaj
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
->
-> </details>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/>
