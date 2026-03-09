@@ -266,8 +266,8 @@
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/TheRakshitRaj/YOUR_REPO_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/TheRakshitRaj/YOUR_REPO_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/TheRakshitRaj/YOUR_REPO_1)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=lms-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/TheRakshitRaj/YOUR_REPO_2)
 
 </div>
 
