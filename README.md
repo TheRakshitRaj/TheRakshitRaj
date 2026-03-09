@@ -33,9 +33,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+sys.init(About_Me);>>+whoami" alt="About Me" />
-</div>
+## 👤 About Me
 
 <table>
 <tr>
@@ -87,9 +85,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+load_module(Tech_Stack);>>+display_arsenal" alt="Tech Arsenal" />
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -99,44 +95,44 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+fetch(GitHub_Stats);>>+executing..." alt="GitHub Stats" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&v=1&cache_seconds=3600"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&v=1&cache_seconds=3600"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com?user=TheRakshitRaj&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TheRakshitRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&v=1" width="100%"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRakshitRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=>>+tail+-f+activity.log;>>+monitoring_commits..." alt="Activity" />
-</div>
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRakshitRaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&v=1" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRakshitRaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+run(Contribution_Snake);>>+slithering..." alt="Snake" />
-</div>
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake.svg"/>
-  <img alt="Rakshit's GitHub contribution snake" src="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake.svg"/>
+    <img alt="Rakshit's GitHub contribution snake" src="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+cat+current_trajectory.txt" alt="What I'm up to" />
-</div>
+## 🚀 What I'm Up To
 
 <div align="center">
 <table>
@@ -177,43 +173,37 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+print(Milestones);>>+success_logs" alt="Highlights" />
-</div>
+## 🏆 Milestones
 
 <div align="center">
 
-| Status | Achievement Protocol |
-|--------|----------------------|
+| Status | Achievement |
+|--------|-------------|
 | 🟢 | **Algorithms & Logic:** Active LeetCode grinder — consistently sharpening problem-solving skills. |
 | 🟢 | **Open Source:** Passionate community contributor, dropping meaningful PRs to projects I love. |
 | 🟢 | **Production Code:** Built, scaled, and deployed full-stack web applications handling real-world traffic. |
-| 🟢 | **Mobile Ecosystems:** Shipped smooth, performant cross-platform applications using Flutter & React Native. |
-| 🟢 | **Low-Level Systems:** Expanding horizons beyond the web, pushing into systems programming with Rust and C++. |
+| 🟢 | **Mobile Ecosystems:** Shipped smooth, performant cross-platform apps using Flutter & React Native. |
+| 🟢 | **Low-Level Systems:** Expanding into systems programming with Rust and C++. |
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+ls+-la+./Featured_Work" alt="Pinned Projects" />
-</div>
+## 📌 Featured Work
 
 <div align="center">
   <a href="https://github.com/TheRakshitRaj/DeFi-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1&cache_seconds=3600" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
   </a>
   &nbsp;
   <a href="https://github.com/TheRakshitRaj/lms-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=lms-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1&cache_seconds=3600" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=lms-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+ping+-c+1+Network;>>+connection_open" alt="Let's Connect" />
-</div>
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -228,6 +218,8 @@
 <a href="https://leetcode.com/u/The_RakshitRaj/">
   <img src="https://img.shields.io/badge/LeetCode_Profile-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
