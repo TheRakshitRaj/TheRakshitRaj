@@ -55,8 +55,12 @@
 ║      @TheRakshitRaj                  ║
 ║                                      ║
 ╚══════════════════════════════════════╝
+```
+
 </td>
 <td width="50%" valign="top">
+
+```text
 ┌─[ rakshit@universe ]─────────────────┐
 │                                       │
 │  👤  Identity  : Rakshit Raj          │
@@ -75,7 +79,158 @@
 │  ☕ Fuel       : Caffeine & Curiosity │
 │                                       │
 └───────────────────────────────────────┘
+```
+
 </td>
 </tr>
 </table>
-<div align="center"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=700%26size=28%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=400%26lines=>>+load_module(Tech_Stack);>>+display_arsenal" alt="Tech Arsenal" /></div><div align="center">🌐 Languages⚛️ Frontend & Mobile🔧 Backend & Databases☁️ DevOps & Tools</div><div align="center"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=700%26size=28%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=400%26lines=>>+fetch(GitHub_Stats);>>+executing..." alt="GitHub Stats" /></div><div align="center"><img height="195" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTheRakshitRaj%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26icon_color%3D58a6ff%26text_color%3Dc9d1d9%26ring_color%3D58a6ff%26v%3D1%26cache_seconds%3D3600"/><img height="195" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTheRakshitRaj%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26langs_count%3D8%26v%3D1%26cache_seconds%3D3600"/><img src="https://streak-stats.demolab.com?user=TheRakshitRaj&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" width="60%"/><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DTheRakshitRaj%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D6%26row%3D1%26column%3D7%26v%3D1" width="100%"/></div><div align="center"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D28%26pause%3D1000%26color%3D58A6FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3D>>+tail+-f+activity.log;>>+monitoring_commits..." alt="Activity" /></div><div align="center"><img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DTheRakshitRaj%26bg_color%3D0d1117%26color%3D58a6ff%26line%3D58a6ff%26point%3Dffffff%26area%3Dtrue%26area_color%3D58a6ff%26hide_border%3Dtrue%26v%3D1" width="100%"/></div><div align="center"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=700%26size=28%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=400%26lines=>>+run(Contribution_Snake);>>+slithering..." alt="Snake" /></div><picture><source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/><source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake.svg"/><img alt="Rakshit's GitHub contribution snake"src="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/></picture><div align="center"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=700%26size=28%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=400%26lines=>>+cat+current_trajectory.txt" alt="What I'm up to" /></div><div align="center"><table><tr><td align="center" width="50%"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dtransparent%26color%3D58A6FF%26height%3D60%26section%3Dheader%26text%3D🔭%20Building&fontSize=25" /></td><td align="center" width="50%"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dtransparent%26color%3D58A6FF%26height%3D60%26section%3Dheader%26text%3D🌱%20Exploring&fontSize=25" /></td></tr><tr><td><blockquote><p>🧩 Architecting a full-stack SaaS with <b>Next.js</b> & <b>Node.js</b></p><p>📱 Crafting cross-platform magic using <b>Flutter</b></p><p>🦀 Getting dangerously close to the metal with <b>Rust</b></p></blockquote></td><td><blockquote><p>🏗️ <b>System Design</b> & Distributed Architecture</p><p>🤖 Integrating <b>AI/ML</b> models into production</p><p>☁️ Mastering <b>Cloud-native</b> patterns</p></blockquote></td></tr></table></div><div align="center"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=700%26size=28%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=400%26lines=>>+print(Milestones);>>+success_logs" alt="Highlights" /></div><div align="center">StatusAchievement Protocol🟢Algorithms & Logic: Active LeetCode grinder — consistently sharpening problem-solving skills.🟢Open Source: Passionate community contributor, dropping meaningful PRs to projects I love.🟢Production Code: Built, scaled, and deployed full-stack web applications handling real-world traffic.🟢Mobile Ecosystems: Shipped smooth, performant cross-platform applications using Flutter & React Native.🟢Low-Level Systems: Expanding horizons beyond the web, pushing into systems programming with Rust and C++.</div><div align="center"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=700%26size=28%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=400%26lines=>>+ls+-la+./Featured_Work" alt="Pinned Projects" /></div><div align="center"><a href="https://github.com/TheRakshitRaj/DeFi-Project"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DTheRakshitRaj%26repo%3DDeFi-Project%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26v%3D1%26cache_seconds%3D3600" width="48%" /></a>&nbsp;<a href="https://github.com/TheRakshitRaj/lms-clone"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DTheRakshitRaj%26repo%3Dlms-clone%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D58a6ff%26text_color%3Dc9d1d9%26icon_color%3D58a6ff%26v%3D1%26cache_seconds%3D3600" width="48%" /></a></div><div align="center"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Fira+Code%26weight=700%26size=28%26pause=1000%26color=58A6FF%26center=true%26vCenter=true%26width=400%26lines=>>+ping+-c+1+Network;>>+connection_open" alt="Let's Connect" /></div><div align="center"><a href="https://www.linkedin.com/in/rakshit-raj-817508394/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://x.com/The_Rakshit_Raj"><img src="https://img.shields.io/badge/Follow_on_X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;<a href="https://leetcode.com/u/The_RakshitRaj/"><img src="https://img.shields.io/badge/LeetCode_Profile-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/><sub>⭐ If you find my work interesting, consider starring a repo — it means a lot! 🙌</sub></div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+load_module(Tech_Stack);>>+display_arsenal" alt="Tech Arsenal" />
+</div>
+
+<div align="center">
+
+🌐 **Languages** &nbsp;|&nbsp; ⚛️ **Frontend & Mobile** &nbsp;|&nbsp; 🔧 **Backend & Databases** &nbsp;|&nbsp; ☁️ **DevOps & Tools**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+fetch(GitHub_Stats);>>+executing..." alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&v=1&cache_seconds=3600"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&v=1&cache_seconds=3600"/>
+  <img src="https://streak-stats.demolab.com?user=TheRakshitRaj&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRakshitRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&v=1" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=>>+tail+-f+activity.log;>>+monitoring_commits..." alt="Activity" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRakshitRaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&v=1" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+run(Contribution_Snake);>>+slithering..." alt="Snake" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake.svg"/>
+  <img alt="Rakshit's GitHub contribution snake" src="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+cat+current_trajectory.txt" alt="What I'm up to" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔭 Building
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 Exploring
+
+</td>
+</tr>
+<tr>
+<td>
+
+> 🧩 Architecting a full-stack SaaS with **Next.js** & **Node.js**
+>
+> 📱 Crafting cross-platform magic using **Flutter**
+>
+> 🦀 Getting dangerously close to the metal with **Rust**
+
+</td>
+<td>
+
+> 🏗️ **System Design** & Distributed Architecture
+>
+> 🤖 Integrating **AI/ML** models into production
+>
+> ☁️ Mastering **Cloud-native** patterns
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+print(Milestones);>>+success_logs" alt="Highlights" />
+</div>
+
+<div align="center">
+
+| Status | Achievement Protocol |
+|--------|----------------------|
+| 🟢 | **Algorithms & Logic:** Active LeetCode grinder — consistently sharpening problem-solving skills. |
+| 🟢 | **Open Source:** Passionate community contributor, dropping meaningful PRs to projects I love. |
+| 🟢 | **Production Code:** Built, scaled, and deployed full-stack web applications handling real-world traffic. |
+| 🟢 | **Mobile Ecosystems:** Shipped smooth, performant cross-platform applications using Flutter & React Native. |
+| 🟢 | **Low-Level Systems:** Expanding horizons beyond the web, pushing into systems programming with Rust and C++. |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+ls+-la+./Featured_Work" alt="Pinned Projects" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/TheRakshitRaj/DeFi-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1&cache_seconds=3600" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TheRakshitRaj/lms-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=lms-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&v=1&cache_seconds=3600" width="48%" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=>>+ping+-c+1+Network;>>+connection_open" alt="Let's Connect" />
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/The_Rakshit_Raj">
+  <img src="https://img.shields.io/badge/Follow_on_X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/The_RakshitRaj/">
+  <img src="https://img.shields.io/badge/LeetCode_Profile-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<sub>⭐ If you find my work interesting, consider starring a repo — it means a lot! 🙌</sub>
+
+</div>
