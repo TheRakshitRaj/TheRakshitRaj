@@ -1,19 +1,11 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           GITHUB PROFILE README — Rakshit Raj                  -->
-<!--           GitHub: TheRakshitRaj                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ░░░ ANIMATED HEADER BANNER ░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rakshit%20Raj&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=17&descAlignY=58&descColor=a8b2d8" width="100%"/>
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=640&lines=Hey+there!+I'm+Rakshit+Raj+%F0%9F%91%8B;Full+Stack+%7C+Systems+%7C+Mobile+Engineer;JavaScript+%2F+TypeScript+%2F+Python+%2F+Rust;React+%2F+Next.js+%2F+Node.js+%2F+Flutter;Building+things+that+matter+%E2%9C%A8;Let's+build+something+great+together+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ░░░ SOCIAL BADGES ░░░ -->
 <a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -32,7 +24,6 @@
 
 <br/><br/>
 
-<!-- ░░░ PROFILE VIEWS + FOLLOWERS ░░░ -->
 <img src="https://komarev.com/ghpvc/?username=TheRakshitRaj&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/TheRakshitRaj?label=FOLLOWERS&style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 
@@ -42,59 +33,19 @@
 
 ---
 
-## 🧠 About Me
+## 🌌 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **“I think in functions, debug in loops, and build for the future.”**
 
-```
-╔══════════════════════════════════════╗
-║                                      ║
-║    ██████╗  ██████╗                  ║
-║    ██╔══██╗ ██╔══██╗                 ║
-║    ██████╔╝ ██████╔╝                 ║
-║    ██╔══██╗ ██╔══██╗                 ║
-║    ██║  ██║ ██║  ██║                 ║
-║    ╚═╝  ╚═╝ ╚═╝  ╚═╝                ║
-║                                      ║
-║         Rakshit Raj                  ║
-║      @TheRakshitRaj                  ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+I'm a detail-oriented **Software Engineer** from India, deeply passionate about translating complex problems into elegant, scalable solutions. Whether I'm weaving together a pixel-perfect frontend, architecting robust backend systems, or diving into the low-level mechanics of Rust, I thrive on the edge of my comfort zone.
 
-</td>
-<td width="50%" valign="top">
+<div align="center">
 
-```yaml
-┌─[ rakshit@universe ]─────────────────┐
-│                                       │
-│  👤  Rakshit Raj                      │
-│  💼  Software Engineer                │
-│  📍  India                            │
-│  🌐  github.com/TheRakshitRaj         │
-│                                       │
-├─[ system ]────────────────────────────┤
-│                                       │
-│  ⚡  Languages  : JS · TS · Py · Rust │
-│  ⚛️   Frontend  : React · Next.js     │
-│  📱  Mobile    : Flutter · RN         │
-│  🔧  Backend   : Node.js · FastAPI    │
-│                                       │
-├─[ status ]────────────────────────────┤
-│                                       │
-│  🔭  Building  : SaaS + Mobile Apps   │
-│  🌱  Learning  : System Design + AI   │
-│  💬  Ask me    : DSA · Web · Mobile   │
-│  ⚡  Fun fact  : LeetCode addict 😄   │
-│                                       │
-└───────────────────────────────────────┘
-```
+| 👨‍💻 **Identity** | 🛠️ **Craft** | 🌍 **Base** | ⚡ **Vibe** |
+| :--- | :--- | :--- | :--- |
+| Rakshit Raj | Full Stack & Mobile Dev | India | Fueled by caffeine & curiosity |
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -147,17 +98,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
-<!-- ░░░ STREAK STATS ░░░ -->
 <img src="https://streak-stats.demolab.com?user=TheRakshitRaj&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
 
 <br/><br/>
 
-<!-- ░░░ TROPHIES ░░░ -->
 <img src="https://github-profile-trophy.vercel.app/?username=TheRakshitRaj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
 
 </div>
@@ -189,84 +138,72 @@
     src="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-</div>
-
 <br/>
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 Current Trajectory
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🔭 Currently Working On
-- 🧩 A full-stack SaaS platform with Next.js + Node.js
-- 📱 A cross-platform mobile app with Flutter
-- 🦀 Exploring systems programming with Rust
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Currently Learning
-- 🏗️ System Design & Distributed Systems
-- 🤖 AI/ML integrations in production apps
-- ☁️ Cloud-native architecture patterns
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Ask Me About
-- ⚡ JavaScript / TypeScript best practices
-- 🐍 Python scripting & automation
-- 📱 React Native & Flutter development
-- 🔢 Data Structures & Algorithms (LeetCode!)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Fun Facts
-- 🧠 I think in functions and debug in loops
-- 🎮 Gamer when not shipping code
-- ☕ Fueled entirely by caffeine & curiosity
-- 🌙 Best code written after midnight
-
-</td>
-</tr>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔭 Building</h3>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌱 Exploring</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>🧩 Architecting a full-stack SaaS with <b>Next.js</b> & <b>Node.js</b></li>
+        <li>📱 Crafting cross-platform magic using <b>Flutter</b></li>
+        <li>🦀 Getting dangerously close to the metal with <b>Rust</b></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🏗️ <b>System Design</b> & Distributed Architecture</li>
+        <li>🤖 Integrating <b>AI/ML</b> models into production</li>
+        <li>☁️ Mastering <b>Cloud-native</b> patterns</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
----
-
-## 🏆 Highlights & Achievements
-
-<div align="center">
-
-| 🎯 | Achievement |
-|:---:|:---|
-| 💻 | Active **LeetCode** problem solver — grinding daily |
-| 🌟 | Open source contributor with meaningful PRs |
-| 🚀 | Built and deployed production-grade full-stack applications |
-| 📱 | Shipped cross-platform mobile apps with Flutter & React Native |
-| 🦀 | Pushing into systems programming territory with Rust & C++ |
-
 </div>
 
 <br/>
 
 ---
 
-## 📌 Pinned Projects
+## 🏆 Highlights & Milestones
 
+* **Algorithms & Logic:** 💻 Active **LeetCode** grinder — consistently sharpening problem-solving skills and tackling complex DSA.
+* **Open Source:** 🌟 Passionate community contributor, dropping meaningful PRs to projects I love.
+* **Production Code:** 🚀 Built, scaled, and deployed full-stack web applications capable of handling real-world traffic.
+* **Mobile Ecosystems:** 📱 Shipped smooth, performant cross-platform applications using both Flutter & React Native.
+* **Low-Level Systems:** 🦀 Expanding horizons beyond the web, pushing into systems programming territory with Rust and C++.
+
+<br/>
+
+---
+
+## 📌 Featured Work
+
+*(Note: If these aren't loading, double-check that the repos are marked as **Public**!)*
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/TheRakshitRaj/DeFi-Project)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=lms-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/TheRakshitRaj/lms-clone)
+<a href="https://github.com/TheRakshitRaj/DeFi-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+</a>
+&nbsp;
+<a href="https://github.com/TheRakshitRaj/lms-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRakshitRaj&repo=lms-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+</a>
 
 </div>
 
@@ -278,7 +215,7 @@
 
 <div align="center">
 
-*I'm always open to interesting conversations, collaborations, and new opportunities!*
+*Always open to interesting conversations, pair programming, and building cool things together.*
 
 <br/>
 
@@ -296,34 +233,8 @@
 
 <br/><br/>
 
-<!-- ░░░ FOOTER WAVE ░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <sub>⭐ If you find my work interesting, consider starring a repo — it means a lot! 🙌</sub>
 
 </div>
-
-<!--
-═══════════════════════════════════════════════════════════════════
-  📋  FINAL SETUP CHECKLIST for @TheRakshitRaj
-═══════════════════════════════════════════════════════════════════
-  Replace these remaining placeholders:
-  [ ] rakshit-raj-817508394     → your LinkedIn profile slug
-  [ ] The_Rakshit_Raj    → your Twitter / X handle
-  [ ] The_RakshitRaj → your LeetCode username
-  [ ] YOUR_REPO_1            → your best project repo name
-  [ ] YOUR_REPO_2            → your second best project repo name
-
-  Update personal section to reflect your real:
-  [ ] location, current projects, achievements & fun facts
-
-  📁  How to go live:
-  1. Go to github.com/new
-  2. Repo name: TheRakshitRaj  (must match your username exactly)
-  3. Set to Public ✅
-  4. Paste this as README.md
-  5. Visit github.com/TheRakshitRaj — your profile is live! 🎉
-
-  🐍  Snake: Follow the workflow instructions in the snake section above.
-═══════════════════════════════════════════════════════════════════
--->
