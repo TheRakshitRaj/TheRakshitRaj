@@ -196,8 +196,8 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi_Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
   </a>
   &nbsp;
-  <a href="https://github.com/TheRakshitRaj/Movies-site-">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=Movies-site-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
+  <a href="https://github.com/TheRakshitRaj/Portfolio">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
   </a>
 </div>
 
