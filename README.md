@@ -35,54 +35,32 @@
 
 ## 👤 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <br>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F97316&center=false&vCenter=true&width=600&lines=Rakshit+Raj...;@TheRakshitRaj...;Software+Engineer+%7C+India;Full+Stack+%26+Mobile...;Building+for+the+future..." alt="Animated Name" />
+        </a>
+        <br><br>
 
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║    ██████╗  ██████╗                  ║
-║    ██╔══██╗ ██╔══██╗                 ║
-║    ██████╔╝ ██████╔╝                 ║
-║    ██╔══██╗ ██╔══██╗                 ║
-║    ██║  ██║ ██║  ██║                 ║
-║    ╚═╝  ╚═╝ ╚═╝  ╚═╝                 ║
-║                                      ║
-║         Rakshit Raj                  ║
-║      @TheRakshitRaj                  ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+        <div align="left" style="font-family: 'Fira Code', monospace; color: #a5b4fc;">
+          <p>> "I think in functions, debug in loops, and build for the future."</p>
+          <p>⚡ **Status:** Online</p>
+          <p>☕ **Fuel:** Caffeine & Curiosity</p>
+        </div>
+      </td>
 
-</td>
-<td width="50%" valign="top">
-
-```text
-┌─[ rakshit@universe ]─────────────────┐
-│                                       │
-│  👤  Identity  : Rakshit Raj          │
-│  💼  Role      : Software Engineer    │
-│  📍  Location  : India                │
-│  🌐  Domain    : Full Stack & Mobile  │
-│                                       │
-├─[ core_directives ]───────────────────┤
-│                                       │
-│  > "I think in functions, debug in    │
-│  > loops, and build for the future."  │
-│                                       │
-├─[ system_status ]─────────────────────┤
-│                                       │
-│  ⚡ Status     : Online               │
-│  ☕ Fuel       : Caffeine & Curiosity │
-│                                       │
-└───────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
+      <td width="50%" valign="top">
+        <br>
+        <div align="center">
+          <img src="https://rakshit.dev/coding_loop.gif" alt="Professional Coding Session Loop" style="border-radius: 12px; width: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
