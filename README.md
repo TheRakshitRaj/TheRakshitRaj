@@ -37,29 +37,34 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="60%" valign="top">
         <br/>
-        <h3>Rakshit Raj</h3>
-        Full Stack & Mobile Developer | Building innovative solutions from India.
+        <!-- Using a single-line SVG generates beautiful, stable, bold, and colored text that GitHub won't strip -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&center=false&vCenter=true&width=400&lines=Rakshit+Raj" alt="Rakshit Raj" />
+        <br/>
+        <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
+        <br/><br/>
+        I specialize in architecting scalable backend systems, designing seamless user interfaces, and writing clean, efficient code. I thrive on turning complex logic into elegant, high-performance applications.
         <br/><br/>
         <i>&gt; "I think in functions, debug in loops, and build for the future."</i>
         <br/><br/><br/>
-        ⚡ <b>Status:</b> Online / open for new opportunities.<br/>
-        ☕ <b>Fuel:</b> Caffeine, curiosity, and code.<br/>
-        🔭 <b>Current Projects:</b> Building scalable web apps and exploring mobile frameworks.<br/>
-        🌱 <b>Interests:</b> DSA, System Design, Open Source.<br/>
-        💬 <b>Let's chat about:</b> New technologies, collaborative projects, or interesting challenges.
+        ⚡ <b>Status:</b> Actively building & shipping products.<br/>
+        💻 <b>Stack Focus:</b> MERN Stack, React Native, and C++ (DSA).<br/>
+        🔭 <b>Currently Learning:</b> Advanced System Design & Interactive 3D UI.<br/>
+        🌱 <b>Philosophy:</b> Code is poetry; architecture is the canvas.<br/>
+        📫 <b>Let's Connect:</b> Always open to collaborate on innovative ideas!
         <br/><br/>
       </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE2eGs3cmVya3R3Ymp3ZWh4Nm9rdGd6ZHpoeml6aG9raHd5c2Z1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efUcLJePY6RkA/giphy.gif" alt="Professional Coding Session Loop" width="100%" />
-        </div>
+      <!-- Adjusted the width ratio to 60/40 and set valign to center so the GIF sits perfectly balanced next to your longer text -->
+      <td width="40%" valign="center" align="center">
+        <br/>
+        <a href="https://github.com/TheRakshitRaj">
+          <img src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding Session" width="95%" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
