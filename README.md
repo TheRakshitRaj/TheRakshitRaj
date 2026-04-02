@@ -39,18 +39,21 @@
     <tr>
       <td width="50%" valign="top">
         <br/>
-        <a href="https://github.com/TheRakshitRaj">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=false&vCenter=true&width=400&lines=Rakshit+Raj...;@TheRakshitRaj...;Software+Engineer;Full+Stack+%26+Mobile...;Building+for+the+future..." alt="Animated Name" />
-        </a>
+        <h3>Rakshit Raj</h3>
+        Full Stack & Mobile Developer | Building innovative solutions from India.
         <br/><br/>
         <i>&gt; "I think in functions, debug in loops, and build for the future."</i>
         <br/><br/><br/>
-        ⚡ <b>Status:</b> Online<br/>
-        ☕ <b>Fuel:</b> Caffeine &amp; Curiosity
+        ⚡ <b>Status:</b> Online / open for new opportunities.<br/>
+        ☕ <b>Fuel:</b> Caffeine, curiosity, and code.<br/>
+        🔭 <b>Current Projects:</b> Building scalable web apps and exploring mobile frameworks.<br/>
+        🌱 <b>Interests:</b> DSA, System Design, Open Source.<br/>
+        💬 <b>Let's chat about:</b> New technologies, collaborative projects, or interesting challenges.
+        <br/><br/>
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="100%" />
+          <img src="https://i.gifer.com/En1y.gif" alt="Professional Coding Session Loop" width="100%" />
         </div>
       </td>
     </tr>
