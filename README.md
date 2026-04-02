@@ -88,34 +88,52 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <table width="100%">
+
+  <!-- Live Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+MERN+Stack+Projects...;Crafting+Interactive+3D+Portfolios...;Solving+Complex+DSA+Problems...;cd+%2Fmy-tech-stack" alt="Typing SVG" />
+  </a>
+  <br/>
+
+  <!-- macOS Window Table -->
+  <table width="800">
+    <tr>
+      <th colspan="2" align="left">🔴 🟡 🟢 &nbsp; <b>~/tech-stack</b></th>
+    </tr>
     <tr>
       <td align="center" width="50%">
-        <h3>🌐 Languages</h3>
-        <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" /><br><br>
+        <br>
+        <b>🌐 Languages</b><br><br>
+        <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" /><br><br>
         <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Problem%20Solving-1f6feb?style=flat-square" />
+        <br><br>
       </td>
       <td align="center" width="50%">
-        <h3>⚛️ Frontend & Mobile</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /><br><br>
-        <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-22c55e?style=flat-square" />
+        <br>
+        <b>⚛️ Frontend & 3D</b><br><br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" /><br><br>
+        <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Interactive-22c55e?style=flat-square" />
+        <br><br>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3>🔧 Backend & Databases</h3>
+        <br>
+        <b>🔧 Backend & DBs</b><br><br>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br><br>
         <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-f97316?style=flat-square" />
+        <br><br>
       </td>
       <td align="center" width="50%">
-        <h3>☁️ DevOps & Tools</h3>
+        <br>
+        <b>☁️ DevOps & Tools</b><br><br>
         <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" /><br><br>
         <img src="https://img.shields.io/badge/DevOps-Learning%20%26%20Building-eab308?style=flat-square" />
+        <br><br>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ## 📊 GitHub Stats
