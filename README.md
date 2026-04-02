@@ -32,35 +32,31 @@
 <br/>
 
 ---
-
 ## 👤 About Me
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <br>
+        <br/>
         <a href="https://github.com/TheRakshitRaj">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=false&vCenter=true&width=400&lines=Rakshit+Raj...;@TheRakshitRaj...;Software+Engineer;Full+Stack+%26+Mobile...;Building+for+the+future..." alt="Animated Name" />
         </a>
-        <br><br>
-
-        <p><i>> "I think in functions, debug in loops, and build for the future."</i></p>
-        <br>
-        <p>⚡ <b>Status:</b> Online</p>
-        <p>☕ <b>Fuel:</b> Caffeine & Curiosity</p>
+        <br/><br/>
+        <i>&gt; "I think in functions, debug in loops, and build for the future."</i>
+        <br/><br/><br/>
+        ⚡ <b>Status:</b> Online<br/>
+        ☕ <b>Fuel:</b> Caffeine &amp; Curiosity
       </td>
-
       <td width="50%" valign="top">
-        <br>
         <div align="center">
-          <!-- I put a real, working coding GIF here so it works immediately -->
-          <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Professional Coding Session Loop" width="100%" />
+          <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="100%" />
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
