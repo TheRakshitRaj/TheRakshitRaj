@@ -53,7 +53,7 @@
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <img src="https://i.gifer.com/En1y.gif" alt="Professional Coding Session Loop" width="100%" />
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE2eGs3cmVya3R3Ymp3ZWh4Nm9rdGd6ZHpoeml6aG9raHd5c2Z1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/efUcLJePY6RkA/giphy.gif" alt="Professional Coding Session Loop" width="100%" />
         </div>
       </td>
     </tr>
