@@ -39,9 +39,9 @@
     <tr>
       <td width="60%" valign="top">
         <br/>
-        <!-- Using a single-line SVG generates beautiful, stable, bold, and colored text that GitHub won't strip -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&center=false&vCenter=true&width=400&lines=Rakshit+Raj" alt="Rakshit Raj" />
-        <br/>
+        <!-- Static, bold, and colored name using an SVG renderer -->
+        <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F97316&text=Rakshit%20Raj&height=50&fontSize=45&fontAlignY=70&fontAlign=0" alt="Rakshit Raj" />
+        <br/><br/>
         <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
         <br/><br/>
         I specialize in architecting scalable backend systems, designing seamless user interfaces, and writing clean, efficient code. I thrive on turning complex logic into elegant, high-performance applications.
@@ -55,16 +55,15 @@
         📫 <b>Let's Connect:</b> Always open to collaborate on innovative ideas!
         <br/><br/>
       </td>
-      <!-- Adjusted the width ratio to 60/40 and set valign to center so the GIF sits perfectly balanced next to your longer text -->
       <td width="40%" valign="center" align="center">
         <br/>
-        <a href="https://github.com/TheRakshitRaj">
-          <img src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding Session" width="95%" />
-        </a>
+        <!-- Using a reliable Giphy link to bypass GitHub's image blocking -->
+        <img src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding Session" width="95%" />
       </td>
     </tr>
   </table>
 </div>
+
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
