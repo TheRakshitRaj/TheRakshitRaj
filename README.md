@@ -36,26 +36,26 @@
 ## 👤 About Me
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td width="50%" valign="top">
         <br>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F97316&center=false&vCenter=true&width=600&lines=Rakshit+Raj...;@TheRakshitRaj...;Software+Engineer+%7C+India;Full+Stack+%26+Mobile...;Building+for+the+future..." alt="Animated Name" />
+        <a href="https://github.com/TheRakshitRaj">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F97316&center=false&vCenter=true&width=400&lines=Rakshit+Raj...;@TheRakshitRaj...;Software+Engineer;Full+Stack+%26+Mobile...;Building+for+the+future..." alt="Animated Name" />
         </a>
         <br><br>
 
-        <div align="left" style="font-family: 'Fira Code', monospace; color: #a5b4fc;">
-          <p>> "I think in functions, debug in loops, and build for the future."</p>
-          <p>⚡ **Status:** Online</p>
-          <p>☕ **Fuel:** Caffeine & Curiosity</p>
-        </div>
+        <p><i>> "I think in functions, debug in loops, and build for the future."</i></p>
+        <br>
+        <p>⚡ <b>Status:</b> Online</p>
+        <p>☕ <b>Fuel:</b> Caffeine & Curiosity</p>
       </td>
 
       <td width="50%" valign="top">
         <br>
         <div align="center">
-          <img src="https://rakshit.dev/coding_loop.gif" alt="Professional Coding Session Loop" style="border-radius: 12px; width: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+          <!-- I put a real, working coding GIF here so it works immediately -->
+          <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Professional Coding Session Loop" width="100%" />
         </div>
       </td>
     </tr>
