@@ -85,13 +85,16 @@
 
 ---
 
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
-
-🌐 **Languages** &nbsp;|&nbsp; ⚛️ **Frontend & Mobile** &nbsp;|&nbsp; 🔧 **Backend & Databases** &nbsp;|&nbsp; ☁️ **DevOps & Tools**
-
-</div>
+🌐 Languages
+<p> <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" /> </p> <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Problem%20Solving-blue?style=for-the-badge" />
+⚛️ Frontend & Mobile
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> </p> <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-green?style=for-the-badge" />
+🔧 Backend & Databases
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p> <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-orange?style=for-the-badge" />
+☁️ DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" /> </p> <img src="https://img.shields.io/badge/DevOps-Learning%20%26%20Building-yellow?style=for-the-badge" /> </div>
 
 ---
 
