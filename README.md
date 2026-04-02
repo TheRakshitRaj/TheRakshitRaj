@@ -85,16 +85,53 @@
 
 ---
 
-🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <div align="center">
-🌐 Languages
-<p> <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" /> </p> <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Problem%20Solving-blue?style=for-the-badge" />
-⚛️ Frontend & Mobile
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> </p> <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-green?style=for-the-badge" />
-🔧 Backend & Databases
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p> <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-orange?style=for-the-badge" />
-☁️ DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" /> </p> <img src="https://img.shields.io/badge/DevOps-Learning%20%26%20Building-yellow?style=for-the-badge" /> </div>
+
+<!-- LANGUAGES -->
+<h3>🌐 Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Problem%20Solving-1f6feb?style=flat-square" />
+</p>
+
+<br/>
+
+<!-- FRONTEND -->
+<h3>⚛️ Frontend & Mobile</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-22c55e?style=flat-square" />
+</p>
+
+<br/>
+
+<!-- BACKEND -->
+<h3>🔧 Backend & Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-f97316?style=flat-square" />
+</p>
+
+<br/>
+
+<!-- DEVOPS -->
+<h3>☁️ DevOps & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/DevOps-Learning%20%26%20Building-eab308?style=flat-square" />
+</p>
+
+</div>
 
 ---
 
