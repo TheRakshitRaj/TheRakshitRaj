@@ -88,49 +88,32 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-
-<!-- LANGUAGES -->
-<h3>🌐 Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Problem%20Solving-1f6feb?style=flat-square" />
-</p>
-
-<br/>
-
-<!-- FRONTEND -->
-<h3>⚛️ Frontend & Mobile</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-22c55e?style=flat-square" />
-</p>
-
-<br/>
-
-<!-- BACKEND -->
-<h3>🔧 Backend & Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-f97316?style=flat-square" />
-</p>
-
-<br/>
-
-<!-- DEVOPS -->
-<h3>☁️ DevOps & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/DevOps-Learning%20%26%20Building-eab308?style=flat-square" />
-</p>
-
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h3>🌐 Languages</h3>
+        <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" /><br><br>
+        <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Problem%20Solving-1f6feb?style=flat-square" />
+      </td>
+      <td align="center" width="50%">
+        <h3>⚛️ Frontend & Mobile</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /><br><br>
+        <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-22c55e?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔧 Backend & Databases</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br><br>
+        <img src="https://img.shields.io/badge/Backend-Scalable%20APIs-f97316?style=flat-square" />
+      </td>
+      <td align="center" width="50%">
+        <h3>☁️ DevOps & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" /><br><br>
+        <img src="https://img.shields.io/badge/DevOps-Learning%20%26%20Building-eab308?style=flat-square" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
