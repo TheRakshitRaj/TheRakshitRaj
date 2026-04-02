@@ -39,8 +39,8 @@
     <tr>
       <td width="60%" valign="top">
         <br/>
-        <!-- Static, bold, and colored name using an SVG renderer -->
-        <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F97316&text=Rakshit%100Raj&height=50&fontSize=45&fontAlignY=70&fontAlign=0" alt="Rakshit Raj" />
+        
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&center=false&vCenter=true&width=400&lines=Rakshit+Raj" alt="Rakshit Raj" />
         <br/><br/>
         <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
         <br/><br/>
@@ -57,8 +57,8 @@
       </td>
       <td width="40%" valign="center" align="center">
         <br/>
-        <!-- Using a reliable Giphy link to bypass GitHub's image blocking -->
-        <img src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding Session" width="95%" />
+        
+<img src="https://i.gifer.com/En1y.gif" alt="Professional Coding Session Loop" width="95%" />
       </td>
     </tr>
   </table>
