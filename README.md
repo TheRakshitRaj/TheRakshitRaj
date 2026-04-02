@@ -40,7 +40,7 @@
       <td width="60%" valign="top">
         <br/>
         <!-- Static, bold, and colored name using an SVG renderer -->
-        <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F97316&text=Rakshit%20Raj&height=50&fontSize=45&fontAlignY=70&fontAlign=0" alt="Rakshit Raj" />
+        <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F97316&text=Rakshit%100Raj&height=50&fontSize=45&fontAlignY=70&fontAlign=0" alt="Rakshit Raj" />
         <br/><br/>
         <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
         <br/><br/>
