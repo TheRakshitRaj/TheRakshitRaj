@@ -6,23 +6,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/The_Rakshit_Raj">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/The_RakshitRaj/">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://github.com/TheRakshitRaj">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=TheRakshitRaj&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/TheRakshitRaj?label=FOLLOWERS&style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
@@ -57,6 +42,23 @@
       </td>
       <td width="40%" valign="center" align="center">
         <br/>
+
+        <a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/The_Rakshit_Raj">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/The_RakshitRaj/">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://github.com/TheRakshitRaj">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
         
 <img src="https://i.gifer.com/En1y.gif" alt="Professional Coding Session Loop" width="95%" />
       </td>
