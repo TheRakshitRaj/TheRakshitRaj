@@ -151,38 +151,6 @@
 
 ---
 
-## 📌 Featured Work
-
-<div align="center">
-  <a href="https://github.com/TheRakshitRaj/DeFi_Project">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi_Project&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/TheRakshitRaj/Portfolio">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=Portfolio&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://x.com/The_Rakshit_Raj">
-  <img src="https://img.shields.io/badge/Follow_on_X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/The_RakshitRaj/">
-  <img src="https://img.shields.io/badge/LeetCode_Profile-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <sub>⭐ If you like my work, consider starring a repo!</sub>
