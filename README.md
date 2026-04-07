@@ -21,7 +21,7 @@
       <td width="60%" valign="top">
         <br/>
         
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&width=400&lines=Rakshit+Raj" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=58A6FF&width=400&lines=Rakshit+Raj" />
         <br/><br/>
         <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
         <br/><br/>
