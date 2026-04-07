@@ -70,3 +70,122 @@
 
 ## 🛠️ Tech Stack
 <!-- rest of your code remains SAME -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+MERN+Stack+Projects...;Crafting+3D+UI...;Solving+DSA..." />
+
+<br/>
+
+<table width="800">
+<tr>
+<th colspan="2" align="left">🔴 🟡 🟢 &nbsp; <b>~/tech-stack</b></th>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<br>
+<b>🌐 Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" /><br><br>
+</td>
+
+<td align="center" width="50%">
+<br>
+<b>⚛️ Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css" /><br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<br>
+<b>🔧 Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br><br>
+</td>
+
+<td align="center" width="50%">
+<br>
+<b>☁️ Dev Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" /><br><br>
+</td>
+</tr>
+
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheRakshitRaj&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheRakshitRaj&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TheRakshitRaj&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRakshitRaj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRakshitRaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheRakshitRaj/TheRakshitRaj/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+## 📌 Featured Work
+
+<div align="center">
+  <a href="https://github.com/TheRakshitRaj/DeFi_Project">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=DeFi_Project&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/TheRakshitRaj/Portfolio">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=TheRakshitRaj&repo=Portfolio&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/The_Rakshit_Raj">
+  <img src="https://img.shields.io/badge/Follow_on_X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/The_RakshitRaj/">
+  <img src="https://img.shields.io/badge/LeetCode_Profile-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<sub>⭐ If you like my work, consider starring a repo!</sub>
+
+</div>
+
