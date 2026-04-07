@@ -46,6 +46,9 @@
 ---
 
 <!-- ✅ SOCIAL LINKS MOVED HERE -->
+
+<h2 align="center">🤝 Let's Connect</h2>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
