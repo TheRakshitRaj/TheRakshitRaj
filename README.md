@@ -42,8 +42,29 @@
       </td>
       <td width="40%" valign="center" align="center">
         <br/>
+        
+<img src="https://i.gifer.com/En1y.gif" alt="Professional Coding Session Loop" width="95%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-        <a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
+  <a href="https://www.linkedin.com/in/rakshit-raj-817508394/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/The_Rakshit_Raj">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/The_RakshitRaj/">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://github.com/TheRakshitRaj">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -59,12 +80,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br/><br/>
-        
-<img src="https://i.gifer.com/En1y.gif" alt="Professional Coding Session Loop" width="95%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
